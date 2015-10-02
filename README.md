@@ -16,3 +16,5 @@ Vanhuksille suunnattu, alustana tabletti ja mahdollisesti älypuhelin. Otetaan h
 #####Käytettävät välineet ja ohjelmat
 
 Peli tallentaa tiedot SQL-tietokantaan. Peli tehdään Construct 2 -ohjelmalla.
+
+https://www.scirra.com/tutorials/1418/trivia-game Tutoriaali trivia-pelin rakentamiseen.
