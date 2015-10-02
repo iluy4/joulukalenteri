@@ -13,6 +13,6 @@ Kaksi eri vaikeustasoa, jotka määräytyvät tunnistettavien kohteiden harvinai
 Vanhuksille suunnattu, alustana tabletti ja mahdollisesti älypuhelin. Otetaan huomioon kohderyhmän erityispiirteet, kuten huonontunut näkö ja hienomotoriikka.
 
 
-####Käytettävät välineet ja ohjelmat
+#####Käytettävät välineet ja ohjelmat
 
 Peli tallentaa tiedot SQL-tietokantaan. Peli tehdään Construct 2 -ohjelmalla.
