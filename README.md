@@ -18,4 +18,10 @@ Vanhuksille suunnattu tietokilpailupeli. Alustana tabletti ja mahdollisesti äly
 Peli tallentaa tiedot SQL-tietokantaan. Serverin kanssa toimimiseen käytetään PHP-kieltä. Itse peli toteutetaan Construct 2 -ohjelmalla.
 
 Tutoriaali trivia-pelin rakentamiseen:
-https://www.scirra.com/tutorials/1418/trivia-game 
+https://www.scirra.com/tutorials/1418/trivia-game
+
+Toinen tutoriaali:
+http://code.tutsplus.com/tutorials/android-ui-workshop-build-an-interactive-quiz-app--mobile-14208
+
+Tunnistettavat lajit ja kuvat:
+http://www.luontoportti.com/suomi/fi/
